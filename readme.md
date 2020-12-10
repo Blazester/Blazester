@@ -8,7 +8,7 @@ Buscas algun tipo de codigo, busca por mi perfil, y coje lo que quieras. Pero no
 
 [![GitHub followers](https://img.shields.io/github/followers/blazester?label=Sigueme&style=social)](https://github.com/Blazester)
 [![Twitter Follow](https://img.shields.io/twitter/follow/blazestergg?label=Sigueme&style=social)](https://twitter.com/BlazesterGG)
-[![Discord](https://img.shields.io/discord/648638892563628032?label=Discord&style=flat-square))](https://discord.com/invite/7nB83hvZ8y)
+[![Discord](https://img.shields.io/discord/648638892563628032?label=Discord&style=flat-square)](https://discord.com/invite/7nB83hvZ8y)
 
 
 ## ¿Que soy?
