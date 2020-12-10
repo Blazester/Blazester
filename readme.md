@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="https://raw.githubusercontent.com/Blazester/Blazester/main/img/home-banner-bg.webp">
+<img align="right" width="500" height="500" src="https://github.com/Blazester/Blazester/blob/main/img/home-banner-bg.png?raw=true">
 
 
 # Hola, soy desarrollador.
