@@ -23,7 +23,7 @@ Buscas algun tipo de codigo, busca por mi perfil, y coje lo que quieras. Pero no
 
 ## Mis redes sociales
 
-<a target="_blank" href="https://github.com/Blazester/">
+<a target="_new" href="https://github.com/Blazester/">
   <img align="left" alt="Github" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111425.svg"/>
 <a target="_blank" href="https://twitter.com/BlazesterGG">
   <img align="left" alt="Gmail" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg"/>
