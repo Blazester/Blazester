@@ -1,7 +1,7 @@
 <img align="right" width="500" height="500" src="https://github.com/Blazester/Blazester/blob/main/img/home-banner-bg.png?raw=true">
 
 
-# Hola, ¿Buscas scripts?
+# Hola, ¿Buscas algo?
 
 Buscas algun tipo de codigo, busca por mi perfil, y coje lo que quieras. Pero no olvides repetar las licencias de cada repositorio.
 
